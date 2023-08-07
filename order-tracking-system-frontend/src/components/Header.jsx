@@ -1,8 +1,8 @@
-
+import React from "react";
 
 const Header = () => {
-    return(
-        <p>Hello from Header!</p>
+    return (
+            <p>Hello from  Header!</p>
     )
 }
 
